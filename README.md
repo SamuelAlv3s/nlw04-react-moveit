@@ -13,14 +13,14 @@
 Clone the project and access the folder
 
 ```bash
-$ git clone https://github.com/guilhermecapitao/nlw04-moveit-web.git && cd nlw04-moveit-web
+$ git clone SamuelAlv3s/nlw04-react-moveit 
 ```
 
 Follow the steps below
 ```bash
 # Install the dependencies
-$ yarn
+$ npm install
 
 # Start the project
-$ yarn dev
+$ npm run dev
 ```
